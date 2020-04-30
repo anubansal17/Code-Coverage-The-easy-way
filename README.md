@@ -21,4 +21,6 @@ Actual code written for the project is different from the one shared above, have
 
 # References
 https://stackoverflow.com/questions/13980726/using-search-engine-to-implement-call-hierarchy-getting-all-the-methods-that-in </br>
+https://stackoverflow.com/questions/844759/eclipse-stuck-when-building-workspace </br>
+https://stackoverflow.com/questions/5744520/adding-jars-to-a-eclipse-plugin </br>
 
