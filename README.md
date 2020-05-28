@@ -1,4 +1,4 @@
-# Improving Code Coverage, the Eclipse Plugins way
+# Pro Code Coverage
 Developed solution for improvimg code coverage for any production code using eclipse plugins </br>
 Worked solely on the project and completed it in 2 weeks </br>
 
